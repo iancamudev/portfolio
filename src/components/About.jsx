@@ -25,7 +25,7 @@ const About = () => {
         <h2 className={styles.h2}>ME</h2>
         <p className={styles.p}>
           I am from Argentina, mi native language is Spanish and i have
-          intermediate English (b2), I was started to learn web development on
+          intermediate English (b2), I was started to learn web development independently, then I entered the
           SoyHenry's bootcamp, and i'm still learning getting better step by
           step.
         </p>
